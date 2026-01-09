@@ -1,0 +1,17 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "API Gateway for microservices",
+  "keywords": [
+    "api",
+    "gateway",
+    "microservice"
+  ],
+  "license": "MIT",
+  "author": "João Victor Soares Faust",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node src/index.ts"
+  }
+}
