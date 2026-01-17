@@ -1,7 +1,0 @@
-{
-  "watch": ["src"],
-  "ignore": ["node_modules"],
-  "ext": "ts",
-  "exec": "npm start",
-  "delay": 500
-}

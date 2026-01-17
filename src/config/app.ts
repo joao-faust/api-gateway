@@ -2,7 +2,7 @@ import express from 'express';
 import helmet from 'helmet';
 import morgan from 'morgan';
 
-import { isDev } from './env.ts';
+import { isDev } from './env';
 
 const app = express();
 
