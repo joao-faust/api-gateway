@@ -1,7 +1,7 @@
 import { open } from 'lmdb';
 
-const db = open('./.db', {
+const lmdb = open('./.db', {
   compression: true,
 });
 
-export default db;
+export default lmdb;
